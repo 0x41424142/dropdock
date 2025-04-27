@@ -1,6 +1,6 @@
 # DropDock - Automatic Spamhaus Project DROP List to Pihole
 
-This repo contains `DockDrop`, a Docker container that runs on a weekly basis to download the Spamhaus DROP domain list and update your Pihole's blocklist.
+This repo contains `DockDrop`, a Docker container that runs on a daily basis to download the Spamhaus DROP domain list and update your Pihole's blocklist.
 
 Stale domains are automatically removed and new ones are added.
 
