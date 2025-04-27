@@ -1,0 +1,1 @@
+0 3 * * * docker run --rm dockdrop
